@@ -1,0 +1,13 @@
+.nun{
+    float: right;
+    position: relative;
+    margin-right: 3rem;
+    border: solid grey 1px;
+}
+
+.movieRecension{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+    width: 40%;
+}
