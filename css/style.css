@@ -5,6 +5,12 @@
     border: solid grey 1px;
 }
 
+.act{
+    max-width: 30%;
+    float: right;
+    margin-right: 3rem;
+}
+
 .movieRecension{
     display: flex;
     flex-direction: column;
