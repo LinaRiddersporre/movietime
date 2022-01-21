@@ -56,16 +56,16 @@ section{
 .movieposterIMG{
     float: right;
     position: relative;
-    margin-right: 15rem;
+    margin-right: 5rem;
     border: solid grey 1px;
-    width:380px;
+    width: 380px;
     height: 550px; 
 }
 
 .movieRecension{
     display: flex;
     flex-direction: column;
-    margin: 2 15rem;
+    margin: 2rem 15rem;
     width: 40%;
 }
 
@@ -73,10 +73,17 @@ section{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
+    min-height: 350px;
 }
 
 .container img{
     border: 1px solid black;
+}
+
+.container img:hover{
+    width:250px;
+    height:350px;
 }
 
 .list-item{
