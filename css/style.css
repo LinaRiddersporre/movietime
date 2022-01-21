@@ -38,6 +38,13 @@ body{
     height: 100vh;
 }
 
+h1{
+    margin-left: 3rem;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 1rem;
+}
+
 section{
     margin: 0 15rem;
 }
