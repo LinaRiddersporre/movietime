@@ -53,6 +53,10 @@ section{
     margin: 0 15rem;
 }
 
+.aboutMe{
+    margin-top: 2rem;
+}
+
 .movieposterIMG{
     float: right;
     position: relative;
@@ -119,4 +123,12 @@ footer{
 
 footer p{
     margin: 3px;
+}
+
+p{
+    margin: 3px;
+}
+
+.imdblink{
+    margin-top: 1rem;
 }
