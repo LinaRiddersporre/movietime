@@ -45,6 +45,10 @@ h1{
     padding-bottom: 1rem;
 }
 
+h3{
+    padding-top: 1rem;
+}
+
 section{
     margin: 0 15rem;
 }
@@ -90,4 +94,8 @@ section{
 :hover.list{
     color: blue;
     font-weight: bold;
+}
+
+ul{
+    padding: 0 1rem;
 }
