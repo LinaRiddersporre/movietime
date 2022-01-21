@@ -49,23 +49,19 @@ section{
     margin: 0 15rem;
 }
 
-.nun{
+.movieposterIMG{
     float: right;
     position: relative;
-    margin-right: 3rem;
+    margin-right: 15rem;
     border: solid grey 1px;
-}
-
-.act{
-    max-width: 30%;
-    float: right;
-    margin-right: 3rem;
+    width:380px;
+    height: 550px; 
 }
 
 .movieRecension{
     display: flex;
     flex-direction: column;
-    margin: 2rem;
+    margin: 2 15rem;
     width: 40%;
 }
 
@@ -77,4 +73,21 @@ section{
 
 .container img{
     border: 1px solid black;
+}
+
+.list-item{
+    margin-left: 3rem;
+    padding: 1rem;
+    list-style-type: none;
+    
+}
+
+.list{
+    color: black;
+    
+}
+
+:hover.list{
+    color: blue;
+    font-weight: bold;
 }
