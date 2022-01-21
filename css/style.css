@@ -67,3 +67,7 @@ section{
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.container img{
+    border: 1px solid black;
+}
