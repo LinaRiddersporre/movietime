@@ -58,14 +58,14 @@ section{
     position: relative;
     margin-right: 5rem;
     border: solid grey 1px;
-    width:380px;
+    width: 380px;
     height: 550px; 
 }
 
 .movieRecension{
     display: flex;
     flex-direction: column;
-    margin: 2 15rem;
+    margin: 2rem 15rem;
     width: 40%;
 }
 
