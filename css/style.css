@@ -38,6 +38,10 @@ body{
     height: 100vh;
 }
 
+h1{
+    margin-left: 3rem;
+}
+
 section{
     margin: 0 15rem;
 }
@@ -70,4 +74,21 @@ section{
 
 .container img{
     border: 1px solid black;
+}
+
+.list-item{
+    margin-left: 3rem;
+    padding: 1rem;
+    list-style-type: none;
+    
+}
+
+.list{
+    color: black;
+    
+}
+
+:hover.list{
+    color: blue;
+    font-weight: bold;
 }
